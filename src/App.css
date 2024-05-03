@@ -1,0 +1,9 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
+.homepage_bg{
+  /* background-color: white; */
+  /* background: url("../src/assets/Images/frame.png"); */
+}
